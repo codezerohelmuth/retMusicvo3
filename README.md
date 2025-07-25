@@ -1,2 +1,5 @@
-# retMusicvo3
-A music app meant for only music 
+# Firebase Studio
+
+This is a NextJS starter in Firebase Studio.
+
+To get started, take a look at src/app/page.tsx.
